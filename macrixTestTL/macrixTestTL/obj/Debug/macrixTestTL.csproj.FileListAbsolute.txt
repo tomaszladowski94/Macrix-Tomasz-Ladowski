@@ -1,0 +1,14 @@
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\bin\Debug\macrixTestTL.exe.config
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\bin\Debug\macrixTestTL.exe
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\bin\Debug\macrixTestTL.pdb
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.csprojResolveAssemblyReference.cache
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\MainWindow.g.cs
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\App.g.cs
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL_MarkupCompile.cache
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL_MarkupCompile.lref
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\MainWindow.baml
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.g.resources
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.Properties.Resources.resources
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.csproj.GenerateResource.Cache
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.exe
+C:\Users\chime\Source\Repos\NewRepo\macrixTestTL\macrixTestTL\obj\Debug\macrixTestTL.pdb
